@@ -1,0 +1,39 @@
+<html>
+   <head>
+      <title>GetgleBBS</title>
+      <link rel="stylesheet" href="threads.css">
+   </head>
+   <body>
+      <div id="page">
+         <div id="header">
+            <span class="logo">monkey cage</span><br>
+            <a href="index.php">frontpage,</a> 
+            <a href="catalog.php">catalog,</a> 
+            <a href="createthread.html">create thread</a> 
+         </div>
+         <div id="threads">
+            <div id="thread">
+               <form action="createthread.php" method="post" id="newthread">
+                  <table>
+                     <tr>
+                        <h1>New Thread</h1>
+                        <td id="postTable">Headline:</td>
+                        <td> <input type="text" name="name" value=""><input type="submit" value="Post"></td>
+                        <input type="text" name="reply" value="0" style="display:none;">
+                        <input type="text" name="board" value="lounge" style="display:none;">
+                     </tr>
+                     <tr>
+                        <td id="postTable">Post:</td>
+                        <td><textarea name="post"></textarea></td>
+                     </tr>
+                  </table>
+               </form>
+            </div>
+         </div>
+      </div>
+      <div id="footer">
+         powered by getglebbs3
+      </div>
+   </body>
+</html>
+
