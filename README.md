@@ -14,5 +14,4 @@ It's object oriented.
 I didn't implement bumping yet, GetgleBBS has it but not GetgleBBS2
 
 ---
-All Getgle software is no longer maintained. If you encounter any bugs you will have to fix them yourself.
-If you want to learn more then visit the getgle memorial at http://getgle.org
+TRY IT ON http://getgle.org
