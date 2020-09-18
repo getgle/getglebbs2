@@ -12,6 +12,7 @@ It's objected oriented
 Cons:
 It's object oriented.
 I didn't implement bumping yet, GetgleBBS has it but not GetgleBBS2
+It's a clusterfuck in some places because I had to port the flatfile database to mysql sloppily and include some legacy cruft from the old codebase in the new codebase
 
 ---
 TRY IT ON http://getgle.org
