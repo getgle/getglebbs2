@@ -4,23 +4,17 @@ GetgleBBS Sucessor with a cleaner codebase and MySQL instead of flatfiles.
 The code is self documenting :^) i dont have to write any documentation.
 
 Pros:
-Runs much better than the original GetgleBBS,
 
-Cleaner codebase than GetgleBBS,
+1. Runs much better than the original GetgleBBS,
 
-Very modular and easy to work with object-oriented code.
+2. Cleaner codebase than GetgleBBS,
 
-It's objected oriented
+3. Very modular and easy to work with object-oriented code.
 
 Cons:
 
-It's object oriented.
+1. Bumping is not implmented yet
 
-
-I didn't implement bumping yet, GetgleBBS has it but not GetgleBBS2
-
-
-It's a clusterfuck in some places because I had to port the flatfile database to mysql sloppily and include some legacy cruft from the old codebase in the new codebase
-
+2. The SQL table is pretty weirdly structured because I had to make this compatable with the original getglebbs's data structures.
 ---
 TRY IT ON http://getgle.org
