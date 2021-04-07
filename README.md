@@ -1,3 +1,6 @@
+bro this shit is   not good dont use it  im replacing it with somethihng better this shit is out of date as FUCK nigga, jesus
+
+
 # getglebbs2
 GetgleBBS Sucessor with a cleaner codebase and MySQL instead of flatfiles.
 --------------------------------------------------------------------------
